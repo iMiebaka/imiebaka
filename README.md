@@ -3,8 +3,9 @@
 
 #### Hi there👋 
 ### [I'm Miebaka Iwarri](https://imiebaka.github.io/)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imiebaka&label=Views&color=blue&style=plastic" alt="biyiemmy" /> </p>
-
+<!--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imiebaka&label=Views&color=blue&style=plastic" alt="imiebaka" /> </p>
+-->
 <a href="https://www.linkedin.com/in/miebakaiwarri/">
   <img align="left" alt="Miebaka Iwarri's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -72,8 +73,8 @@
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+ -->
 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
- -->
