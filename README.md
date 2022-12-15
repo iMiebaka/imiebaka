@@ -3,7 +3,7 @@
 
 #### Hi there👋 
 ### [I'm Miebaka Iwarri](https://imiebaka.github.io/)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biyiemmy&label=Views&color=blue&style=plastic" alt="biyiemmy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imiebaka&label=Views&color=blue&style=plastic" alt="biyiemmy" /> </p>
 
 <a href="https://www.linkedin.com/in/miebakaiwarri/">
   <img align="left" alt="Miebaka Iwarri's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
