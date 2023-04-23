@@ -36,7 +36,7 @@
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=imiebaka&">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imiebak&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imiebaka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 <!--
