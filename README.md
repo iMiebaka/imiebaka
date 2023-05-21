@@ -20,7 +20,7 @@
 ## I'm a Doer, Dreamer & Developer!
 
 - 🔭 I’m building some side projects!
-- 🌱 I’m currently working with Python, Javascript, React-JS, Vue, Flask, Django, Express.
+- 🌱 I’m currently working with Python, Typescript, React-JS, Vue, Flask, Django, Express.
 - 👯 I’m open to collaboration with other developers also looking job opportunities.
 - 🥅 Goals: To build crazy solutions.
 - ⚡ Fun fact: I love to watch movies, and travel.
@@ -32,7 +32,7 @@
 
 ### My Github Statistics                                                                                                    
 <p align ="center">
-<img alt="biyiemmy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imiebaka&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+<img alt="miebaka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imiebaka&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=imiebaka&">
 </p>
 
